@@ -1,12 +1,10 @@
 <h1> 👋 Hello, I'm Imon khan </h1>
 
-- 🔭 I’m currently working on C# and Microsoft SQL Project
-- 🌱 I’m currently learning ASP.NET Core
+- 🔭 I’m currently working on C# with Microsoft SQL Server and learning ASP.NET Core
 - 👯 I’m looking to collaborate on .NET Backend Development Project
 - 🤔 I’m looking for help with .NET Developer
-- 💬 Ask me about .NET Developer
+- 💬 Ask me about .NET Development
 - 📫 How to reach me: LinkedIn
-- ⚡ Fun fact: I love Code
 
 ### 👨‍🏫 &nbsp; About Me
 
@@ -34,7 +32,6 @@ I'm eager to connect and collaborate with others who share a vision for a techno
 ---
 [![](https://visitcount.itsvg.in/api?id=imonKhanSWE&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- my languages section starts here  -->
 ### Languages:
 
@@ -48,7 +45,7 @@ I'm eager to connect and collaborate with others who share a vision for a techno
 ### Sports / Game / Activities / Hobby:
 
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
-- ✈️ Travelling
+- 🎧 Music 🏃‍♂️ Running, 🚶‍♂️ Walking
+- 📚 Reading ✈️ Travelling
 
 <br />
