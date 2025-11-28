@@ -1,12 +1,12 @@
 <h1> 👋 Hello, I'm Imon khan </h1>
 
-- 🔭 I’m currently working on C# with Microsoft SQL Server and learning ASP.NET Core
-- 👯 I’m looking to collaborate on .NET Backend Development Project
-- 🤔 I’m looking for help with .NET Developer
-- 💬 Ask me about .NET Development
-- 📫 How to reach me: LinkedIn
+- 🔭 Currently working with C# and Microsoft SQL Server, and expanding my skills in Entity Framework and ASP.NET Core.
+- 👯 Seeking opportunities to collaborate on .NET backend development projects.
+- 🤝 Open to mentorship and professional guidance in .NET development.
+- 💬 Feel free to ask me anything related to .NET development.
+- 📫 Contact: LinkedIn
 
-### 👨‍🏫 &nbsp; About Me
+## 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
 Hello! I'm Samiul Shah Imon Khan, a dedicated IT student at XAMK, Finland. A passion for technology and innovative solutions drives my journey in engineering. With a strong academic foundation, underscored by my high GPAs in both Secondary and Higher Secondary Certificate exams, I am dedicated to excelling in my field. Currently, I'm learning .NET Full Stack Development. Outside my studies and technical interests, I’m deeply curious about technological advancements and how they shape our world. I am always excited to connect with like-minded individuals, explore innovative solutions, and contribute to projects that push boundaries. I enjoy traveling, cooking, reading, event management, and decorative works.
